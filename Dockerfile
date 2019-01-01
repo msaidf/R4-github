@@ -1,4 +1,4 @@
-FROM msaidf/R3-reporting
+FROM msaidf/r3-reporting
 MAINTAINER "Muhamad Said Fathurrohman" muh.said@gmail.com
 
 RUN installGithub.r ChristopherLucas/MatchingFrontier hrbrmstr/hrbrthemes hrbrmstr/ggalt rstudio/r2d3 kthohr/BMR kosukeimai/fastLink JohnCoene/echarts4r cttobin/ggthemr yihui/printr mkearney/rmd2jupyter michaelmalick/r-malick rorynolan/strex r-lib/fs kolesarm/RDHonest muschellij2/diffr
